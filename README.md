@@ -16,6 +16,7 @@ This account is used for:
 - [Computer Systems](https://github.com/RK-MSU/csci-366-spring2021-private): CSCI-366
 - [System Administration](https://github.com/RK-MSU/csci-366-spring2021-private): CSCI-351
 - [Computer Science Theory](https://github.com/RK-MSU/CSCI-338-Computer-Science-Theory): CSCI-338
+- [Concepts/Programming Languages](https://github.com/RK-MSU/CSCI-305-Concepts-Programming-Languages): CSCI-305
 - [Basic Data Structures and Algorithms](https://github.com/RK-MSU/csci-132-Basic-Data-Structures-and-Algorithms): CSCI-132
 - [Multidisciplinary Engineering Design](https://github.com/RK-MSU/EGEN-310R-Multidisciplinary-Engineering-Design): EGEN-310
 - [Intermediate Technical Writing](https://github.com/RK-MSU/csci-221-Intermediate-Technical-Writing): CSCI-221
