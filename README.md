@@ -13,7 +13,7 @@ This account is used for:
 
 ## Class Repos
 
-- [Computer Systems](https://github.com/RK-MSU/csci-366-spring2021-private): CSCI-366
+- [Computer Systems](https://github.com/RK-MSU/CSCI-366-Computer-Systems): CSCI-366
 - [System Administration](https://github.com/RK-MSU/csci-366-spring2021-private): CSCI-351
 - [Computer Science Theory](https://github.com/RK-MSU/CSCI-338-Computer-Science-Theory): CSCI-338
 - [Concepts/Programming Languages](https://github.com/RK-MSU/CSCI-305-Concepts-Programming-Languages): CSCI-305
