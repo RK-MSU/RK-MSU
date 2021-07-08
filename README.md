@@ -22,6 +22,7 @@ This account is used for:
 - [Intermediate Technical Writing](https://github.com/RK-MSU/csci-221-Intermediate-Technical-Writing): CSCI-221
 - [Social and Ethical Issues in CS](https://github.com/RK-MSU/csci-215-Social-and-Ethical-Issues-in-CS): CSCI-215
 - [Web-Design](https://github.com/RK-MSU/Web-Design)
+- [Mysteries of the Sky](https://github.com/RK-MSU/Astronomy-110-Mysteries-of-the-Sky): Astronomy 110
 
 <!--
 | Course Name | Code | Info |
